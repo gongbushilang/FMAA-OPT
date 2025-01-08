@@ -10,4 +10,4 @@ The copyright of PlatEMO belongs to the BIMK Group. This tool is mainly for rese
 Our study refers to this multiobjective algorithm for practical ecological reservoir operation applications.
 
 # Installation
--MATLAB R2019b and later versions are required.
+- MATLAB R2019b and later versions are required.
